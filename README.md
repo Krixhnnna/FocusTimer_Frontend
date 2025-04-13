@@ -8,4 +8,4 @@ A sleek and user-friendly frontend for the Focus Timer application, designed to 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/FocusTimer_Frontend.git
+   git clone https://github.com/Krixhnnna/FocusTimer_Frontend.git
